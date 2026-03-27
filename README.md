@@ -16,13 +16,17 @@
 - [Building Frameworks](#building-frameworks)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
+    - [Huggin Face](#huggin-face-)
     - [Microsoft](#microsoft)
 
 
 ## Building Frameworks
 
+- [Deep Agents](https://www.langchain.com/deep-agents) - An open source agent harness built for long-running tasks. It handles planning, context management, and multi-agent orchestration for complex work like research and coding.
 - [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) - Framework for developing AI agents, model-agnostic, deployment-agnostic, and compatible with other frameworks.
-
+- [LangChain](https://www.langchain.com/langchain) - Open source framework with a pre-built agent architecture and integrations for any model or tool.
+- [LangGraph](https://www.langchain.com/langgraph) - A low-level orchestration framework and runtime for building, managing, and deploying long-running, stateful agents.
+- [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - This framework provides everything from simple chat agents to complex multi-agent workflows with graph-based orchestration. Support for both .NET and Python. 
 
 ## Learning resources
 
