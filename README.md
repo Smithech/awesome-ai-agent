@@ -18,14 +18,14 @@
 - [Protocols](#protocols)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
-    - [Huggin Face](#huggin-face-)
+    - [Huggin Face 🤗 ](#huggin-face-)
     - [LangChain](#langchain)
     - [Microsoft](#microsoft)
 
 
 ## Agent Engineering Platform
 
-- [LangSmith Platform]() - Framework agnostic agent engineering platform for observing, evaluating, and deploying agents.
+- [LangSmith Platform](https://www.langchain.com/langsmith-platform) - Framework agnostic agent engineering platform for observing, evaluating, and deploying agents.
 
 
 ## Building Frameworks
@@ -62,12 +62,12 @@
 - [Introduction to Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith) - Learn the essentials of agent observability & evaluations with LangSmith. Continuously improve your agents with LangSmith's tools for observability, evaluation, and prompt engineering.
 - [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) - Learn how to build AI agents with LangChain. Get started quickly using pre-built architectures and model integrations, then debug your agents with LangSmith Observability.
 - [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph) - Learn the basics of LangGraph, the framework helps developers add better precision and control into agentic workflows.
-- [Quickstart courses](https://academy.langchain.com/collections/quickstart) - Quickstart courses about LangChain, LangGraph and LangSmith.
+- [Quickstart courses](https://academy.langchain.com/collections/quickstart) - Collection of quickstart courses about LangChain, LangGraph and LangSmith.
 
 ### Microsoft
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) - A course teaching everything you need to know to start building AI Agents.
-- [Python + Agentes: Creando agentes y flujos de IA](https://developer.microsoft.com/es-es/reactor/series/s-1633/) - [Spanish version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
-- [Python + Agents: Building AI agents and workflows](https://developer.microsoft.com/es-es/reactor/series/s-1631/) - [English version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
+- [Python + Agentes: Creando agentes y flujos de IA](https://developer.microsoft.com/es-es/reactor/series/s-1633/) - \[Spanish version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
+- [Python + Agents: Building AI agents and workflows](https://developer.microsoft.com/es-es/reactor/series/s-1631/) - \[English version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
 
 
 ## Contributing
