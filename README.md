@@ -66,6 +66,7 @@
 
 ### Microsoft
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) - A course teaching everything you need to know to start building AI Agents.
+- [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners/) - Learn MCP with Hands-on Code Examples in C#, Java, JavaScript, Rust, Python, and TypeScript.
 - [Python + Agentes: Creando agentes y flujos de IA](https://developer.microsoft.com/es-es/reactor/series/s-1633/) - \[Spanish version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
 - [Python + Agents: Building AI agents and workflows](https://developer.microsoft.com/es-es/reactor/series/s-1631/) - \[English version] A series that explores the foundational concepts behind building AI agents in Python using the Microsoft Agent Framework.
 
