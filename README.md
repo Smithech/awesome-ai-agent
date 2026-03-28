@@ -14,6 +14,7 @@
 ## Contents
 
 - [Building Frameworks](#building-frameworks)
+- [Protocols](#protocols)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
     - [Huggin Face](#huggin-face-)
@@ -27,6 +28,14 @@
 - [LangChain](https://www.langchain.com/langchain) - Open source framework with a pre-built agent architecture and integrations for any model or tool.
 - [LangGraph](https://www.langchain.com/langgraph) - A low-level orchestration framework and runtime for building, managing, and deploying long-running, stateful agents.
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - This framework provides everything from simple chat agents to complex multi-agent workflows with graph-based orchestration. Support for both .NET and Python. 
+
+
+## Protocols
+
+- [Agent2Agent (A2A)](https://a2a-protocol.org/latest/) - An open standard designed to enable seamless communication and collaboration between AI agents.
+- [Agent Payments Protocol (AP2)](https://agentpaymentsprotocol.info/) - An open protocol for the emerging Agent Economy. It enables secure, reliable, and interoperable agent commerce for developers, merchants, and the payments industry.
+- [Model Context Protocol - (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - An open-source standard for connecting AI applications to external systems.
+
 
 ## Learning resources
 
