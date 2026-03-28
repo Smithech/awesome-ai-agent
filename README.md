@@ -18,6 +18,7 @@
 - [Learning resources](#learning-resources)
     - [Google](#google) 
     - [Huggin Face](#huggin-face-)
+    - [LangChain](#langchain)
     - [Microsoft](#microsoft)
 
 
@@ -46,6 +47,16 @@
 ### Huggin Face 🤗 
 - [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - This free course will take you on a journey, from beginner to expert, in understanding, using and building AI agents.
 - [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - This free course, built in partnership with Anthropic, will take you on a journey, from beginner to informed, in understanding, using, and building applications with MCP. 
+
+### LangChain 
+- [Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents) - Build your own ambient agent to manage your email. You’ll learn the fundamentals of LangGraph as you build an email assistant from scratch, and use LangSmith to evaluate its performance.
+- [Building Reliable Agents](https://academy.langchain.com/courses/building-reliable-agents) - Take an agent from first run to production-ready system through iterative cycles of improvement with LangSmith, the agent engineering platform for observing and evaluating agents.
+- [Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) - Learn the fundamental characteristics of Deep Agents and how to implement your own Deep Agent for complex, long-running tasks.
+- [Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph) - Build your own deep research agent to handle research tasks. Learn how to use LangGraph to build a multi-agent system, then use LangSmith to evaluate its performance.
+- [Introduction to Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith) - Learn the essentials of agent observability & evaluations with LangSmith. Continuously improve your agents with LangSmith's tools for observability, evaluation, and prompt engineering.
+- [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) - Learn how to build AI agents with LangChain. Get started quickly using pre-built architectures and model integrations, then debug your agents with LangSmith Observability.
+- [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph) - Learn the basics of LangGraph, the framework helps developers add better precision and control into agentic workflows.
+- [Quickstart courses](https://academy.langchain.com/collections/quickstart) - Quickstart courses about LangChain, LangGraph and LangSmith.
 
 ### Microsoft
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) - A course teaching everything you need to know to start building AI Agents.
