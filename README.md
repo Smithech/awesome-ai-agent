@@ -16,6 +16,7 @@
 - [Agent Engineering Platform](#agent-engineering-platform)
 - [Building Frameworks](#building-frameworks)
 - [Protocols](#protocols)
+- [Sandboxes](#sandboxes)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
     - [Huggin Face 🤗 ](#huggin-face-)
@@ -42,6 +43,14 @@
 - [Agent2Agent (A2A)](https://a2a-protocol.org/latest/) - An open standard designed to enable seamless communication and collaboration between AI agents.
 - [Agent Payments Protocol (AP2)](https://agentpaymentsprotocol.info/) - An open protocol for the emerging Agent Economy. It enables secure, reliable, and interoperable agent commerce for developers, merchants, and the payments industry.
 - [Model Context Protocol - (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - An open-source standard for connecting AI applications to external systems.
+
+
+## Sandboxes
+
+- [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/) - Fully managed service that enables you to deploy and operate highly capable agents securely, at scale using any framework and model. 
+- [Daytona](https://www.daytona.io/) - Secure and Elastic Infrastructure for Running Your AI-Generated Code.
+- [Modal Sandboxes](https://modal.com/products/sandboxes) - Run AI-generated code in dynamically defined sandboxes. Modal provides serverless container infrastructure with GPU support. 
+- [Runloop](https://runloop.ai/) - Disposable devboxes for running code in isolated environments. Launch AI agents on secure code sandboxes, refine with evaluations, and ship on AI infrastructure built for enterprise scale.
 
 
 ## Learning resources
