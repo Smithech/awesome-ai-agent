@@ -14,8 +14,8 @@
 ## Contents
 
 - [Agent Engineering Platform](#agent-engineering-platform)
-- [Building Frameworks](#building-frameworks)
-- [Protocols](#protocols)
+- [Orchestration Frameworks](#orchestration-frameworks)
+- [Interoperability Protocols](#interoperability-protocols)
 - [Sandboxes](#sandboxes)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
@@ -29,7 +29,7 @@
 - [LangSmith Platform](https://www.langchain.com/langsmith-platform) - Framework agnostic agent engineering platform for observing, evaluating, and deploying agents.
 
 
-## Building Frameworks
+## Orchestration Frameworks
 
 - [Deep Agents](https://www.langchain.com/deep-agents) - An open source agent harness built for long-running tasks. It handles planning, context management, and multi-agent orchestration for complex work like research and coding.
 - [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) - Framework for developing AI agents, model-agnostic, deployment-agnostic, and compatible with other frameworks.
@@ -38,7 +38,7 @@
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - This framework provides everything from simple chat agents to complex multi-agent workflows with graph-based orchestration. Support for both .NET and Python. 
 
 
-## Protocols
+## Interoperability Protocols
 
 - [Agent2Agent (A2A)](https://a2a-protocol.org/latest/) - An open standard designed to enable seamless communication and collaboration between AI agents.
 - [Agent Payments Protocol (AP2)](https://agentpaymentsprotocol.info/) - An open protocol for the emerging Agent Economy. It enables secure, reliable, and interoperable agent commerce for developers, merchants, and the payments industry.
