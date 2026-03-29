@@ -13,16 +13,23 @@
 
 ## Contents
 
+- [Context Processing](#context-processing)
+    - [Embedding models](#embedding-models)
 - [Interoperability Protocols](#interoperability-protocols)
 - [Observability](#observability)
 - [Orchestration Frameworks](#orchestration-frameworks)
 - [Sandboxes](#sandboxes)
 - [Learning resources](#learning-resources)
     - [Google](#google) 
-    - [Huggin Face 🤗 ](#huggin-face-)
+    - [Huggin Face](#huggin-face)
     - [LangChain](#langchain)
     - [Microsoft](#microsoft)
 
+
+## Context processing
+
+### Embedding models
+- [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - The text-embedding-3-small and text-embedding-3-large embedding models are OpenAI's newest and best-performing embedding models.
 
 ## Interoperability Protocols
 
@@ -59,7 +66,7 @@
 - [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents) - Learn guide so anyone can explore the foundations, architecture and practical development of AI agents.
 - [5-Day Gen AI Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-genai) - Learning guide for exploring the fundamental technologies and techniques behind Generative AI.
 
-### Huggin Face 🤗 
+### Huggin Face 
 - [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - This free course will take you on a journey, from beginner to expert, in understanding, using and building AI agents.
 - [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - This free course, built in partnership with Anthropic, will take you on a journey, from beginner to informed, in understanding, using, and building applications with MCP. 
 
