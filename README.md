@@ -15,6 +15,7 @@
 
 - [Context Processing](#context-processing)
     - [Embedding models](#embedding-models)
+    - [Transformers](#transformers)
 - [Interoperability Protocols](#interoperability-protocols)
 - [Observability](#observability)
 - [Orchestration Frameworks](#orchestration-frameworks)
@@ -30,6 +31,9 @@
 
 ### Embedding models
 - [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - The text-embedding-3-small and text-embedding-3-large embedding models are OpenAI's newest and best-performing embedding models.
+
+### Transformers
+- [Huggin Face Transformers](https://huggingface.co/docs/transformers/index) - HF library for Transformers with hundreds of models.
 
 ## Interoperability Protocols
 
