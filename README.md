@@ -17,6 +17,7 @@
     - [Embedding models](#embedding-models)
     - [Transformers](#transformers)
 - [Interoperability Protocols](#interoperability-protocols)
+- [Local LLM Tools](#local-llm-tools)
 - [Observability](#observability)
 - [Orchestration Frameworks](#orchestration-frameworks)
 - [Sandboxes](#sandboxes)
@@ -40,6 +41,13 @@
 - [Agent2Agent (A2A)](https://a2a-protocol.org/latest/) - An open standard designed to enable seamless communication and collaboration between AI agents.
 - [Agent Payments Protocol (AP2)](https://agentpaymentsprotocol.info/) - An open protocol for the emerging Agent Economy. It enables secure, reliable, and interoperable agent commerce for developers, merchants, and the payments industry.
 - [Model Context Protocol - (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - An open-source standard for connecting AI applications to external systems.
+
+
+## Local LLM Tools
+
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++.
+- [LM Studio](https://lmstudio.ai/) - Run AI models, locally and privately.
+- [Ollama](https://ollama.com/) - Run any app or agent with open models.
 
 
 ## Observability
