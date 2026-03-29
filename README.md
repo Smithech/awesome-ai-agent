@@ -16,6 +16,7 @@
 - [Context Processing](#context-processing)
     - [Embedding models](#embedding-models)
     - [Transformers](#transformers)
+- [Foundation Models Providers](#foundation-models-providers)
 - [Interoperability Protocols](#interoperability-protocols)
 - [Local LLM Tools](#local-llm-tools)
 - [Observability](#observability)
@@ -35,6 +36,12 @@
 
 ### Transformers
 - [Huggin Face Transformers](https://huggingface.co/docs/transformers/index) - HF library for Transformers with hundreds of models.
+
+
+## Foundation Models Providers
+
+- [Google DeepMind](https://deepmind.google/models/) - Provider of foundational AI models, including the Gemini family and the Gemma family of open models.
+
 
 ## Interoperability Protocols
 
