@@ -36,7 +36,7 @@
 - [Google Cloud - Vertex AI Agent Builder](https://docs.cloud.google.com/agent-builder) - Vertex AI Agent Builder is a suite of products that help developers create, scale, and govern AI agents in production.
 
 
-## Context processing
+## Context Processing
 
 ### Embedding models
 - [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - The text-embedding-3-small and text-embedding-3-large embedding models are OpenAI's newest and best-performing embedding models.
