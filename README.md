@@ -13,6 +13,7 @@
 
 ## Contents
 
+- [Cloud Platforms for Agents](#cloud-platforms-for-agents)
 - [Context Processing](#context-processing)
     - [Embedding models](#embedding-models)
     - [Transformers](#transformers)
@@ -27,6 +28,12 @@
     - [Huggin Face](#huggin-face)
     - [LangChain](#langchain)
     - [Microsoft](#microsoft)
+
+
+## Cloud Platforms for Agents
+
+- [Amazon Bedrock](https://aws.amazon.com/bedrock/) - The AWS platform for building generative AI applications and agents.
+- [Google Cloud - Vertex AI Agent Builder](https://docs.cloud.google.com/agent-builder) - Vertex AI Agent Builder is a suite of products that help developers create, scale, and govern AI agents in production.
 
 
 ## Context processing
