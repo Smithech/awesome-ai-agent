@@ -40,6 +40,7 @@
 ## Context Processing
 
 ### Embedding models
+- [Harrier OSS](https://huggingface.co/microsoft/harrier-oss-v1-0.6b) - A family of multilingual text embedding models developed by Microsoft.
 - [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - The text-embedding-3-small and text-embedding-3-large embedding models are OpenAI's newest and best-performing embedding models.
 
 ### Transformers
@@ -48,8 +49,10 @@
 
 ## Foundation Models Providers
 
+- [Anthropic Claude](https://claude.ai/) - Provider of foundational AI models, including Haiku, Opus, and Sonnet.
 - [Google DeepMind](https://deepmind.google/models/) - Provider of foundational AI models, including the Gemini family and the Gemma family of open models.
-
+- [Meta LLaMA](https://www.llama.com/) - Optimized models for easy deployment, cost efficiency, and performance that scale to billions of users.
+- [Open AI](https://developers.openai.com/api/docs/models) - Provider of frontier models and specialized models for image, speech-to-speech, text-to-speech and transcription. 
 
 ## Inference Providers
 
@@ -59,7 +62,7 @@
 - [Hyperbolic](https://www.hyperbolic.ai/) - The Open-Access AI Cloud.
 - [Featherless](https://featherless.ai/) - Freedom to reliably deploy any open model effortlessly.
 - [Fireworks](https://fireworks.ai/) - Open-source AI models at blazing speed, optimized for your use case, scaled globally with the Fireworks Inference Cloud.
-- [Groq](https://groq.com/) - Groq delivers fast, low cost inference that doesn’t flake when things get real.
+- [Groq](https://groq.com/) - Fast, low cost inference that doesn’t flake when things get real.
 - [HF Inference](https://huggingface.co/docs/inference-providers/providers/hf-inference) - The serverless Inference API powered by Hugging Face.
 - [Novita](https://novita.ai/) - Ship models and agents in minutes, call 200+ models with one API, and run secure, fast agent sandboxes— developer-first and startup-friendly.
 - [Nscale](https://www.nscale.com/) - Full-stack AI infrastructure powering the world’s most powerful systems, from ground to cloud.
@@ -69,7 +72,7 @@
 - [SambaNova](https://sambanova.ai/) - Purpose-built for scalable AI inference.
 - [Scaleway](https://www.scaleway.com/en/) - Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.
 - [Together AI](https://www.together.ai/) - Full-stack AI platform, powered by cutting-edge research.
-- [WaveSpeedAI](https://wavespeed.ai/) - Ultimate Platform for Accelerating AI Image and Video Generation
+- [WaveSpeedAI](https://wavespeed.ai/) - Ultimate Platform for Accelerating AI Image and Video Generation.
 - [Zai](https://chat.z.ai/) - Free AI Chatbot and Agent. 
 
 
