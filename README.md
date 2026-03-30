@@ -82,10 +82,21 @@
 
 
 ## Local LLM Tools
-
+ 
+- [DiffusionBee](https://diffusionbee.com/) - The fastest and easiest toolbox to run AI apps locally.
+- [Docker Model Runner](https://docs.docker.com/ai/model-runner/) - It makes easy to manage, run, and deploy AI models using Docker.
+- [Draw Things](https://drawthings.ai/) - Server-grade AI models. Quickly generate images, locally and offline.
+- [Jan](https://www.jan.ai/) - Personal Intelligence that answers only to you.
+- [JellyBox](https://jellybox.com/) - Run AI Models locally and entirely offline. 
+- [Lemonade](https://lemonade-server.ai/) - Open source. Private. Ready in minutes on any PC. 
+- [Local AI](https://localai.io/) - Your All-in-One Complete AI Stack - Run powerful language models, autonomous agents, and document intelligence locally on your hardware.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++.
 - [LM Studio](https://lmstudio.ai/) - Run AI models, locally and privately.
+- [MLX LM](https://github.com/ml-explore/mlx-lm) - Python package for generating text and fine-tuning large language models on Apple silicon with MLX.
 - [Ollama](https://ollama.com/) - Run any app or agent with open models.
+- [SGLang](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models. 
+- [Unsloth](https://unsloth.ai/) - Run models locally. Unsloth Studio runs 100% offline on your Mac and Windows device. 
+- [vLLM](https://vllm.ai/) - The High-Throughput and Memory-Efficient inference and serving engine for LLMs. 
 
 
 ## Observability
