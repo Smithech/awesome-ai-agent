@@ -18,6 +18,7 @@
     - [Embedding models](#embedding-models)
     - [Transformers](#transformers)
 - [Foundation Models Providers](#foundation-models-providers)
+- [Inference Providers](#inference-providers)
 - [Interoperability Protocols](#interoperability-protocols)
 - [Local LLM Tools](#local-llm-tools)
 - [Observability](#observability)
@@ -48,6 +49,29 @@
 ## Foundation Models Providers
 
 - [Google DeepMind](https://deepmind.google/models/) - Provider of foundational AI models, including the Gemini family and the Gemma family of open models.
+
+
+## Inference Providers
+
+- [Cerebras](https://www.cerebras.ai/) - The Fastest AI Infrastructure Industry-leading speed, scale, and quality.
+- [Cohere](https://cohere.com/) - Where powerful AI meets practical business solutions — so you can work smarter.
+- [Fal](https://fal.ai/) - The world's best generative image, video, and audio models, all in one place. Develop and fine-tune models with serverless GPUs and on-demand clusters.
+- [Hyperbolic](https://www.hyperbolic.ai/) - The Open-Access AI Cloud.
+- [Featherless](https://featherless.ai/) - Freedom to reliably deploy any open model effortlessly.
+- [Fireworks](https://fireworks.ai/) - Open-source AI models at blazing speed, optimized for your use case, scaled globally with the Fireworks Inference Cloud.
+- [Groq](https://groq.com/) - Groq delivers fast, low cost inference that doesn’t flake when things get real.
+- [HF Inference](https://huggingface.co/docs/inference-providers/providers/hf-inference) - The serverless Inference API powered by Hugging Face.
+- [Novita](https://novita.ai/) - Ship models and agents in minutes, call 200+ models with one API, and run secure, fast agent sandboxes— developer-first and startup-friendly.
+- [Nscale](https://www.nscale.com/) - Full-stack AI infrastructure powering the world’s most powerful systems, from ground to cloud.
+- [ovhOVH AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/) - Powerful, secure, and easy-to-integrate generative AI APIs to enhance your applications.
+- [Public AI](https://publicai.co/) - The Public AI Inference Utility is a nonprofit, open-source project. Public AI builds products and organizes advocacy to support the work of public AI model builders.
+- [Replicate](https://replicate.com/) - Run and fine-tune models. Deploy custom models. All with one line of code.
+- [SambaNova](https://sambanova.ai/) - Purpose-built for scalable AI inference.
+- [Scaleway](https://www.scaleway.com/en/) - Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.
+- [Together AI](https://www.together.ai/) - Full-stack AI platform, powered by cutting-edge research.
+- [WaveSpeedAI](https://wavespeed.ai/) - Ultimate Platform for Accelerating AI Image and Video Generation
+- [Zai](https://chat.z.ai/) - Free AI Chatbot and Agent. 
+
 
 
 ## Interoperability Protocols
