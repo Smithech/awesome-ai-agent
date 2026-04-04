@@ -3,7 +3,7 @@
 
 <div align="center">
     <a title="Awesome AI Agents" href="https://github.com/Smithech/awesome-ai-agent">
-        <img src="assets/banner.png" height="350" style="margin-bottom: 20px;" />
+        <img src="assets/banner.png" width="768" alt="Awesome AI Agent Banner"/>
     </a>
     <br>
 </div>
@@ -34,14 +34,14 @@
 ## Cloud Platforms for Agents
 
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) - The AWS platform for building generative AI applications and agents.
-- [Google Cloud - Vertex AI Agent Builder](https://docs.cloud.google.com/agent-builder) - Vertex AI Agent Builder is a suite of products that help developers create, scale, and govern AI agents in production.
+- [Vertex AI Agent Builder](https://docs.cloud.google.com/agent-builder) - A suite of Google Cloud products designed to build, scale, and manage AI agents in production environments.
 
 
 ## Context Processing
 
 ### Embedding models
 - [Harrier OSS](https://huggingface.co/microsoft/harrier-oss-v1-0.6b) - A family of multilingual text embedding models developed by Microsoft.
-- [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - The text-embedding-3-small and text-embedding-3-large embedding models are OpenAI's newest and best-performing embedding models.
+- [OpenAI Embedding Models](https://developers.openai.com/api/docs/guides/embeddings) - Large and small models developed by OpenAI.
 
 ### Transformers
 - [Huggin Face Transformers](https://huggingface.co/docs/transformers/index) - HF library for Transformers with hundreds of models.
@@ -49,32 +49,31 @@
 
 ## Foundation Models Providers
 
-- [Anthropic Claude](https://claude.ai/) - Provider of foundational AI models, including Haiku, Opus, and Sonnet.
-- [Google DeepMind](https://deepmind.google/models/) - Provider of foundational AI models, including the Gemini family and the Gemma family of open models.
-- [Meta LLaMA](https://www.llama.com/) - Optimized models for easy deployment, cost efficiency, and performance that scale to billions of users.
-- [Open AI](https://developers.openai.com/api/docs/models) - Provider of frontier models and specialized models for image, speech-to-speech, text-to-speech and transcription. 
+- [Anthropic Claude](https://claude.ai/) - Foundational models such as Haiku, Opus, and Sonnet.
+- [Google DeepMind](https://deepmind.google/models/) - The Gemini family and Gemma open models, spanning multimodal and lightweight use cases.
+- [Meta LLaMA](https://www.llama.com/) - A family of open-weight language models designed for developers and researchers, supporting fine-tuning, adaptation, and deployment across a broad ecosystem.
+- [Open AI](https://developers.openai.com/api/docs/models) - Frontier and specialized models for text, image, speech-to-speech, text-to-speech and transcription tasks. 
 
 ## Inference Providers
 
-- [Cerebras](https://www.cerebras.ai/) - The Fastest AI Infrastructure Industry-leading speed, scale, and quality.
-- [Cohere](https://cohere.com/) - Where powerful AI meets practical business solutions — so you can work smarter.
-- [Fal](https://fal.ai/) - The world's best generative image, video, and audio models, all in one place. Develop and fine-tune models with serverless GPUs and on-demand clusters.
-- [Hyperbolic](https://www.hyperbolic.ai/) - The Open-Access AI Cloud.
-- [Featherless](https://featherless.ai/) - Freedom to reliably deploy any open model effortlessly.
-- [Fireworks](https://fireworks.ai/) - Open-source AI models at blazing speed, optimized for your use case, scaled globally with the Fireworks Inference Cloud.
-- [Groq](https://groq.com/) - Fast, low cost inference that doesn’t flake when things get real.
-- [HF Inference](https://huggingface.co/docs/inference-providers/providers/hf-inference) - The serverless Inference API powered by Hugging Face.
-- [Novita](https://novita.ai/) - Ship models and agents in minutes, call 200+ models with one API, and run secure, fast agent sandboxes— developer-first and startup-friendly.
-- [Nscale](https://www.nscale.com/) - Full-stack AI infrastructure powering the world’s most powerful systems, from ground to cloud.
-- [ovhOVH AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/) - Powerful, secure, and easy-to-integrate generative AI APIs to enhance your applications.
-- [Public AI](https://publicai.co/) - The Public AI Inference Utility is a nonprofit, open-source project. Public AI builds products and organizes advocacy to support the work of public AI model builders.
-- [Replicate](https://replicate.com/) - Run and fine-tune models. Deploy custom models. All with one line of code.
-- [SambaNova](https://sambanova.ai/) - Purpose-built for scalable AI inference.
-- [Scaleway](https://www.scaleway.com/en/) - Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.
-- [Together AI](https://www.together.ai/) - Full-stack AI platform, powered by cutting-edge research.
-- [WaveSpeedAI](https://wavespeed.ai/) - Ultimate Platform for Accelerating AI Image and Video Generation.
-- [Zai](https://chat.z.ai/) - Free AI Chatbot and Agent. 
-
+- [Cerebras](https://www.cerebras.ai/) - High-performance AI inference infrastructure focused on large-scale workloads and low-latency execution.
+- [Cohere](https://cohere.com/) - Enterprise-oriented language models and inference APIs for NLP and retrieval-based applications.
+- [Fal](https://fal.ai/) - Platform for running and fine-tuning generative media models (image, video, audio) using serverless and on-demand GPU infrastructure.
+- [Hyperbolic](https://www.hyperbolic.ai/) - Open-access cloud platform for running and serving AI models.
+- [Featherless](https://featherless.ai/) - Infrastructure for deploying and serving open-weight models with minimal setup.
+- [Fireworks](https://fireworks.ai/) - Inference platform for open-source models with optimization for performance, scalability, and customization.
+- [Groq](https://groq.com/) - Low-latency inference platform powered by custom hardware for deterministic model execution.
+- [HF Inference](https://huggingface.co/docs/inference-providers/providers/hf-inference) - Serverless inference APIs provided by Hugging Face for deploying and consuming machine learning models.
+- [Novita](https://novita.ai/) - Unified API platform for accessing and deploying multiple models and running agent-based workflows.
+- [Nscale](https://www.nscale.com/) - Infrastructure provider covering compute, storage, and deployment for AI systems across environments.
+- [ovhOVH AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/) - Managed APIs for integrating and serving machine learning and generative AI models.
+- [Public AI](https://publicai.co/) - Open-source and nonprofit initiative providing shared infrastructure for public AI model access and experimentation.
+- [Replicate](https://replicate.com/) - Platform for running, deploying, and fine-tuning models via API-based workflows.
+- [SambaNova](https://sambanova.ai/) - AI inference systems built on specialized hardware and software for large-scale model execution.
+- [Scaleway](https://www.scaleway.com/en/) - Cloud platform supporting the deployment and scaling of AI models and applications.
+- [Together AI](https://www.together.ai/) - Platform for training, fine-tuning, and serving open and research-driven AI models.
+- [WaveSpeedAI](https://wavespeed.ai/) - Infrastructure for accelerating generative media workloads, particularly image and video models.
+- [Zai](https://chat.z.ai/) - Platform providing access to conversational AI and agent-based systems.
 
 
 ## Interoperability Protocols
@@ -86,42 +85,42 @@
 
 ## Local LLM Tools
  
-- [DiffusionBee](https://diffusionbee.com/) - The fastest and easiest toolbox to run AI apps locally.
-- [Docker Model Runner](https://docs.docker.com/ai/model-runner/) - It makes easy to manage, run, and deploy AI models using Docker.
-- [Draw Things](https://drawthings.ai/) - Server-grade AI models. Quickly generate images, locally and offline.
-- [Jan](https://www.jan.ai/) - Personal Intelligence that answers only to you.
-- [JellyBox](https://jellybox.com/) - Run AI Models locally and entirely offline. 
-- [Lemonade](https://lemonade-server.ai/) - Open source. Private. Ready in minutes on any PC. 
-- [Local AI](https://localai.io/) - Your All-in-One Complete AI Stack - Run powerful language models, autonomous agents, and document intelligence locally on your hardware.
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++.
-- [LM Studio](https://lmstudio.ai/) - Run AI models, locally and privately.
-- [MLX LM](https://github.com/ml-explore/mlx-lm) - Python package for generating text and fine-tuning large language models on Apple silicon with MLX.
-- [Ollama](https://ollama.com/) - Run any app or agent with open models.
-- [SGLang](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models. 
-- [Unsloth](https://unsloth.ai/) - Run models locally. Unsloth Studio runs 100% offline on your Mac and Windows device. 
-- [vLLM](https://vllm.ai/) - The High-Throughput and Memory-Efficient inference and serving engine for LLMs. 
+- [DiffusionBee](https://diffusionbee.com/) - Desktop application for running generative models locally, with a focus on image generation.
+- [Docker Model Runner](https://docs.docker.com/ai/model-runner/) - Tooling for managing, running, and deploying AI models within Docker-based environments.
+- [Draw Things](https://drawthings.ai/) - Application for running image generation models locally, with support for offline workflows.
+- [Jan](https://www.jan.ai/) - Local-first AI assistant designed to run models privately on user devices.
+- [JellyBox](https://jellybox.com/) - Environment for running AI models locally with full offline support.
+- [Lemonade](https://lemonade-server.ai/) - Open-source local AI runtime for deploying and interacting with models on personal hardware.
+- [Local AI](https://localai.io/) - Self-hosted AI stack for running language models, agents, and related workloads locally.
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - Lightweight inference engine in C/C++ for running large language models on local hardware.
+- [LM Studio](https://lmstudio.ai/) - Desktop interface for discovering, running, and interacting with local language models.
+- [MLX LM](https://github.com/ml-explore/mlx-lm) - Python library for inference and fine-tuning of language models on Apple Silicon using MLX.
+- [Ollama](https://ollama.com/) - Tool for running and managing language models locally with a simplified CLI and API.
+- [SGLang](https://github.com/sgl-project/sglang) - High-performance framework for serving language and multimodal models.
+- [Unsloth](https://unsloth.ai/) - Toolkit for running and fine-tuning models locally, with support for offline environments. 
+- [vLLM](https://vllm.ai/) - Inference and serving engine optimized for throughput and memory efficiency in LLM workloads.
 
 
 ## Observability
 
-- [LangSmith Platform](https://www.langchain.com/langsmith-platform) - Framework agnostic agent engineering platform for observing, evaluating, and deploying agents.
+- [LangSmith Platform](https://www.langchain.com/langsmith-platform) - Framework-agnostic platform for monitoring, evaluating, and debugging LLM applications and agents.
 
 
 ## Orchestration Frameworks
 
-- [Deep Agents](https://www.langchain.com/deep-agents) - An open source agent harness built for long-running tasks. It handles planning, context management, and multi-agent orchestration for complex work like research and coding.
-- [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) - Framework for developing AI agents, model-agnostic, deployment-agnostic, and compatible with other frameworks.
-- [LangChain](https://www.langchain.com/langchain) - Open source framework with a pre-built agent architecture and integrations for any model or tool.
-- [LangGraph](https://www.langchain.com/langgraph) - A low-level orchestration framework and runtime for building, managing, and deploying long-running, stateful agents.
-- [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - This framework provides everything from simple chat agents to complex multi-agent workflows with graph-based orchestration. Support for both .NET and Python. 
+- [Deep Agents](https://www.langchain.com/deep-agents) - Open-source agent framework for long-running tasks, with support for planning, context management, and multi-agent coordination.
+- [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) - Framework for building AI agents with a model-agnostic and deployment-agnostic design.
+- [LangChain](https://www.langchain.com/langchain) - Open-source framework providing abstractions, integrations, and tooling for building LLM-powered applications.
+- [LangGraph](https://www.langchain.com/langgraph) - Low-level orchestration framework for building and running stateful, long-lived agent workflows.
+- [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - Framework for developing agent-based systems, supporting both simple interactions and multi-agent workflows with graph-based orchestration in .NET and Python. 
 
 
 ## Sandboxes
 
-- [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/) - Fully managed service that enables you to deploy and operate highly capable agents securely, at scale using any framework and model. 
-- [Daytona](https://www.daytona.io/) - Secure and Elastic Infrastructure for Running Your AI-Generated Code.
-- [Modal Sandboxes](https://modal.com/products/sandboxes) - Run AI-generated code in dynamically defined sandboxes. Modal provides serverless container infrastructure with GPU support. 
-- [Runloop](https://runloop.ai/) - Disposable devboxes for running code in isolated environments. Launch AI agents on secure code sandboxes, refine with evaluations, and ship on AI infrastructure built for enterprise scale.
+- [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/) - Managed environment for deploying and running AI agents with support for multiple models and frameworks.
+- [Daytona](https://www.daytona.io/) - Infrastructure for executing AI-generated code in isolated and reproducible environments.
+- [Modal Sandboxes](https://modal.com/products/sandboxes) - Serverless container-based environments for running AI-generated code with support for dynamic configuration and GPU workloads.
+- [Runloop](https://runloop.ai/) - Ephemeral development environments for executing code in isolation, with support for agent-based workflows and evaluation pipelines.
 
 
 ## Learning resources
