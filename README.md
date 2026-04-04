@@ -3,7 +3,7 @@
 
 <div align="center">
     <a title="Awesome AI Agents" href="https://github.com/Smithech/awesome-ai-agent">
-        <img src="assets/banner.png" height="350" style="margin-bottom: 20px;" />
+        <img src="assets/banner.png" width="768" alt="Awesome AI Agent Banner"/>
     </a>
     <br>
 </div>
